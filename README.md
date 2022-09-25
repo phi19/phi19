@@ -1,3 +1,5 @@
+![Header](./resources/header.png)
+
 > <h3 align="center"> <i> Template creators are the true saviors of humanity ~ pretty much every developer </i> </h3>
 
 
